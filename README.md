@@ -19,6 +19,8 @@ One of the best resources...
 Slowly go through every concept in order and you have to go till the topic C++ Arrays for now.
 And till C++ Recursion in the long run (not needed too much as a beginner but needed after a certain extent)
 
+Make ChatGPT your best friend.. if getting stuck, ask it anything in any way... simple to use and saves time.
+
 https://www.youtube.com/watch?v=wKDvMcJiEPM watch this after doing it... (one single concept of vectors which is important)
 Future tip: use vectors instead of arrays.
 
